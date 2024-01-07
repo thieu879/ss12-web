@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url(./layouts/header.css);
+@import url(./layouts/nav.css);
+@import url(../css/layouts/content.css);
+*{
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    list-style: none;
+    font-family: 'Noto Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: #151411;
+}
+a:hover{
+    color: #518581;
+}
+button {
+    border: none;
+}
+button:hover {
+    background: #518581;
+    color: #FFFFFF;
+}

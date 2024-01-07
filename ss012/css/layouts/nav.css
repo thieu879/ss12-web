@@ -1,0 +1,76 @@
+.nav {
+}
+
+
+.nav-headline {
+    font-size: 64px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    margin-top: 102px;
+}
+
+
+.nav-mid {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-list {
+    background-image: url("./anh/anh1.png");
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin-top: 108px;
+}
+
+.nav-text {
+    margin-left: 150px;
+    padding-top: 10px;
+}
+
+
+.nav-text-1 {
+    font-size: 44px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+
+.nav-text-2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.nav-back {
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    color: #FFFFFF;
+    background: #151411;
+    margin-left: 30px;
+}
+
+
+.nav-next {
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    color: #FFFFFF;
+    background: #151411;
+    margin-right: 30px;
+}
+
+.nav-back-next {
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
